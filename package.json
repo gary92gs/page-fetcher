@@ -1,0 +1,22 @@
+{
+  "name": "page-fetcher",
+  "version": "0.1.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gary92gs/page-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gary92gs/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/gary92gs/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
